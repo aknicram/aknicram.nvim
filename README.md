@@ -1,7 +1,8 @@
 # sumptuous.nvim
 
 A dark color scheme for neovim.
-Mix of grayscale and [pastel colors]([https://colorkit.co/color/d77991)
+
+Mix of grayscale and [pastel colors]([https://colorkit.co/color/d77991).
 
 ## Installation
 
